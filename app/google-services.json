@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908932637727",
+    "project_id": "holidaylist-8d1ca",
+    "storage_bucket": "holidaylist-8d1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908932637727:android:19056eb6afd309b7fb212a",
+        "android_client_info": {
+          "package_name": "com.example.holidaylist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVjsk4ZBezUO7sOqsfLZY9u2HuW9rm5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
